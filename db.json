@@ -30,6 +30,12 @@
               "grupoAlimento": "Pescados y mariscos",
               "peso": "30.95"
             }
+          ],
+          "Verduras":[
+            {
+              "grupoAlimento": "verdura",
+              "peso": "36.54"
+            }
           ]
         },
       "comentario": "no comment",
