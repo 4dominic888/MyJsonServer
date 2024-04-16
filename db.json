@@ -36,6 +36,12 @@
               "grupoAlimento": "verdura",
               "peso": "36.54"
             }
+          ],
+          "Otros":[
+            {
+              "grupoAlimento": "algo",
+              "peso": "540.32"
+            }
           ]
         },
       "comentario": "no comment",
@@ -60,6 +66,18 @@
             {
               "grupoAlimento": "Bayas (fresa, frambruesa, arandanos, uvas)",
               "peso": "18.12"
+            }
+          ],
+          "Abarrotes":[
+            {
+              "grupoAlimento": "Arroz",
+              "peso": "5.0"
+            }
+          ],
+          "Embutidos":[
+            {
+              "grupoAlimento": "Chorizo",
+              "peso" "10.99"
             }
           ]
         },
