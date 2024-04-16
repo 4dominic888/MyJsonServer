@@ -8,12 +8,13 @@
   "profile": {
     "name": "typicode"
   },
-  "entradas":[
+  "entradas":
+  [
     {
       "id": 0,
-      "fecha": "13/04/2024"
-      "cantidad": "45.2"
-      "proveedor": "Peru SAC"
+      "fecha": "13/04/2024",
+      "cantidad": "45.2",
+      "proveedor": "Peru SAC",
       "productos":
         "Carnes": [
           {
@@ -36,9 +37,9 @@
       },
     {
       "id": 1,
-      "fecha": "15/04/2024"
-      "cantidad": "30.17"
-      "proveedor": "Inka kola"
+      "fecha": "15/04/2024",
+      "cantidad": "30.17",
+      "proveedor": "Inka kola",
       "productos":
         "Frutas": [
           {
