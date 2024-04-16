@@ -15,42 +15,47 @@
       "fecha": "13/04/2024",
       "cantidad": "45.2",
       "proveedor": "Peru SAC",
-      "productos":
-        "Carnes": [
-          {
-            "grupoAlimento": "Carnes rojas (res, chancho)",
-            "peso": "12.5"
-          },
-          {
-            "grupoAlimento": "Menudencia",
-            "peso": "1.75"
-          },
-          {
-            "grupoAlimento": "Pescados y mariscos",
-            "peso": "30.95"
-          }
-        ],
+      "productos": 
+        [
+          "Carnes": [
+            {
+              "grupoAlimento": "Carnes rojas (res, chancho)",
+              "peso": "12.5"
+            },
+            {
+              "grupoAlimento": "Menudencia",
+              "peso": "1.75"
+            },
+            {
+              "grupoAlimento": "Pescados y mariscos",
+              "peso": "30.95"
+            }
+          ]
+        ]
       "comentario": "no comment",
-      "almacenero": {
+      "almacenero": 
+      {
         "nombre": "Juan pepe",
         "dni": "76512365"
-      },
+      }
     {
       "id": 1,
       "fecha": "15/04/2024",
       "cantidad": "30.17",
       "proveedor": "Inka kola",
-      "productos":
-        "Frutas": [
-          {
-            "grupoAlimento": "Frutas de hueso (duraznos, ciruelas, cerezas, albaricoques)",
-            "peso": "12.5"
-          },
-          {
-            "grupoAlimento": "Bayas (fresa, frambruesa, arandanos, uvas)",
-            "peso": "18.12"
-          }
-        ],
+      "productos": 
+        [
+          "Frutas": [
+            {
+              "grupoAlimento": "Frutas de hueso (duraznos, ciruelas, cerezas, albaricoques)",
+              "peso": "12.5"
+            },
+            {
+              "grupoAlimento": "Bayas (fresa, frambruesa, arandanos, uvas)",
+              "peso": "18.12"
+            }
+          ]
+        ]
       "comentario": "no comment",
       "almacenero": {
         "nombre": "Juan Gallardo",
