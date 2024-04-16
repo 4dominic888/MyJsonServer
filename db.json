@@ -16,7 +16,7 @@
       "cantidad": "45.2",
       "proveedor": "Peru SAC",
       "productos": 
-        [
+        {
           "Carnes": [
             {
               "grupoAlimento": "Carnes rojas (res, chancho)",
@@ -31,7 +31,7 @@
               "peso": "30.95"
             }
           ]
-        ]
+        }
       "comentario": "no comment",
       "almacenero": 
       {
@@ -44,7 +44,7 @@
       "cantidad": "30.17",
       "proveedor": "Inka kola",
       "productos": 
-        [
+        {
           "Frutas": [
             {
               "grupoAlimento": "Frutas de hueso (duraznos, ciruelas, cerezas, albaricoques)",
@@ -55,7 +55,7 @@
               "peso": "18.12"
             }
           ]
-        ]
+        }
       "comentario": "no comment",
       "almacenero": {
         "nombre": "Juan Gallardo",
