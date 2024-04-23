@@ -87,5 +87,26 @@
         "dni": "69852145"
       }
     }
+  ],
+
+  "proveedores": [
+    {
+      "id": 45,
+      "nombre": "KFC"
+    },
+  
+    {
+      "id": 450,
+      "nombre": "Peru SAC"
+    },
+  
+    {
+      "id": 302,
+      "nombre": "Pepsico"
+    },
+    {
+      "id": 15,
+      "nombre": "Plaza vea"
+    }
   ]
 }
