@@ -14,7 +14,11 @@
       "id": 0,
       "fecha": "13/04/2024",
       "cantidad": "160.24",
-      "proveedor": "Peru SAC",
+      "proveedor": 
+        {
+          "id": 450,
+          "nombre": "Peru SAC"
+        },
       "productos": 
         {
           "Carnes": [
@@ -55,7 +59,11 @@
       "id": 1,
       "fecha": "15/04/2024",
       "cantidad": "46.61",
-      "proveedor": "Inka kola",
+      "proveedor": 
+        {
+          "id": 45,
+          "nombre": "KFC"
+        },
       "productos": 
         {
           "Frutas": [
