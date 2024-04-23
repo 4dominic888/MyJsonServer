@@ -16,7 +16,7 @@
       "cantidad": "160.24",
       "proveedor": 
         {
-          "id": 450,
+          "idp": 450,
           "nombre": "Peru SAC"
         },
       "productos": 
@@ -97,9 +97,9 @@
     }
   ],
 
-  "proveedores": [
+  "proveedor": [
     {
-      "id": 45,
+      "idp": 45,
       "nombre": "KFC"
     },
   
