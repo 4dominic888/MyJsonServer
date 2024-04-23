@@ -16,7 +16,7 @@
       "cantidad": "160.24",
       "proveedor": 
         {
-          "idp": 450,
+          "idp": "450",
           "nombre": "Peru SAC"
         },
       "productos": 
@@ -61,7 +61,7 @@
       "cantidad": "46.61",
       "proveedor": 
         {
-          "idp": 45,
+          "idp": "45",
           "nombre": "KFC"
         },
       "productos": 
@@ -99,21 +99,21 @@
 
   "proveedor": [
     {
-      "idp": 45,
+      "idp": "45",
       "nombre": "KFC"
     },
   
     {
-      "idp": 450,
+      "idp": "450",
       "nombre": "Peru SAC"
     },
   
     {
-      "idp": 302,
+      "idp": "302",
       "nombre": "Pepsico"
     },
     {
-      "idp": 15,
+      "idp": "15",
       "nombre": "Plaza vea"
     }
   ]
